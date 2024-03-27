@@ -1,0 +1,14 @@
+C:\Users\iksan\source\repos\week6_parsing\bin\Debug\net8.0\week6_parsing.exe
+C:\Users\iksan\source\repos\week6_parsing\bin\Debug\net8.0\week6_parsing.deps.json
+C:\Users\iksan\source\repos\week6_parsing\bin\Debug\net8.0\week6_parsing.runtimeconfig.json
+C:\Users\iksan\source\repos\week6_parsing\bin\Debug\net8.0\week6_parsing.dll
+C:\Users\iksan\source\repos\week6_parsing\bin\Debug\net8.0\week6_parsing.pdb
+C:\Users\iksan\source\repos\week6_parsing\obj\Debug\net8.0\week6_parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iksan\source\repos\week6_parsing\obj\Debug\net8.0\week6_parsing.AssemblyInfoInputs.cache
+C:\Users\iksan\source\repos\week6_parsing\obj\Debug\net8.0\week6_parsing.AssemblyInfo.cs
+C:\Users\iksan\source\repos\week6_parsing\obj\Debug\net8.0\week6_parsing.csproj.CoreCompileInputs.cache
+C:\Users\iksan\source\repos\week6_parsing\obj\Debug\net8.0\week6_parsing.dll
+C:\Users\iksan\source\repos\week6_parsing\obj\Debug\net8.0\refint\week6_parsing.dll
+C:\Users\iksan\source\repos\week6_parsing\obj\Debug\net8.0\week6_parsing.pdb
+C:\Users\iksan\source\repos\week6_parsing\obj\Debug\net8.0\week6_parsing.genruntimeconfig.cache
+C:\Users\iksan\source\repos\week6_parsing\obj\Debug\net8.0\ref\week6_parsing.dll
